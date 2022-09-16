@@ -1,5 +1,5 @@
 {
-   "Description": "Template that creates a SNS topic. It takes DisplayName of the SNS topic as parameter",
+   "Description": "Template to create an SNS topic. It takes DisplayName of the SNS topic as parameter",
    "Resources": {
       "MySNSTopic": {
          "Type": "AWS::SNS::Topic",
